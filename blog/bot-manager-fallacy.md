@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "🧠 The Bot Manager Fallacy: Why Doctors Won't Be Supervising AI — And What We Should Be Training For Instead"
 description: "A deep dive into why physicians will not supervise AI long-term, the economic forces driving automation, and what the future doctor must become. A flagship DoctorsWhoCode essay by Dr. Chukwuma Onyeije."
 author: "Dr. Chukwuma Onyeije"
