@@ -1,0 +1,66 @@
+# Site settings
+title: "Doctors Who Code"
+description: "AI, Clinical Workflows, and the Future of Medicine"
+author: "Dr. Chukwuma Onyeije"
+email: info@codecraftmd.com
+url: "https://chukwumaonyeije.github.io"
+baseurl: "/bot-manager-fallacy"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Dr. Chukwuma Onyeije"
+  - scope:
+      path: "blog"
+    values:
+      layout: "post"
+
+# Social links (optional - customize as needed)
+twitter_username: CodeCraftMD
+github_username: chukwumaonyeije
+linkedin_username: chukwumaonyeije
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# SEO
+logo: /assets/images/logo.png
+social:
+  name: Dr. Chukwuma Onyeije
+  links:
+    - https://x.com/CodeCraftMD
+    - https://github.com/chukwumaonyeije
+    - https://www.linkedin.com/in/chukwumaonyeije/
