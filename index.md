@@ -17,7 +17,7 @@ Founded by **Dr. Chukwuma Onyeije**, a Maternal–Fetal Medicine specialist, thi
 
 ## 📚 **Featured Essays**
 
-### [🧠 The Bot Manager Fallacy](/blog/bot-manager-fallacy)
+### [🧠 The Bot Manager Fallacy]({{ site.baseurl }}/blog/bot-manager-fallacy)
 *Why doctors won't be supervising AI forever — and what we should be training for instead.*
 
 A deep dive into the economic forces driving clinical automation, the cognitive tasks AI will replace, and the durable skills that will protect physicians in the AI era.
@@ -46,7 +46,7 @@ An AI-powered clinical reasoning assistant that helps physicians document, reaso
 
 ## 📖 **Latest Articles**
 
-[→ View All Blog Posts](/blog/)
+[→ View All Blog Posts]({{ site.baseurl }}/blog/)
 
 ---
 

@@ -16,10 +16,10 @@ keywords:
   - LLM in healthcare
 ---
 
-![Bot Manager Fallacy Banner](/assets/images/bot-manager-fallacy-banner.png)
+![Bot Manager Fallacy Banner]({{ site.baseurl }}/assets/images/bot-manager-fallacy-banner.png)
 
-[← Back to Blog](/blog/)  
-[🏠 DoctorsWhoCode Home](/)
+[← Back to Blog]({{ site.baseurl }}/blog/)  
+[🏠 DoctorsWhoCode Home]({{ site.baseurl }}/)
 
 ---
 
@@ -376,5 +376,5 @@ You may also like:
 
 ---
 
-[← Back to Blog](/blog/)  
-[🏠 DoctorsWhoCode Home](/)
+[← Back to Blog]({{ site.baseurl }}/blog/)  
+[🏠 DoctorsWhoCode Home]({{ site.baseurl }}/)

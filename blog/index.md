@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-[🏠 Home](/)
+[🏠 Home]({{ site.baseurl }}/)
 
 ---
 
@@ -15,7 +15,7 @@ Essays on AI, clinical workflows, and the future of medicine.
 
 ## **Featured Articles**
 
-### [🧠 The Bot Manager Fallacy: Why Doctors Won't Be Supervising AI](/blog/bot-manager-fallacy)
+### [🧠 The Bot Manager Fallacy: Why Doctors Won’t Be Supervising AI]({{ site.baseurl }}/blog/bot-manager-fallacy)
 *November 18, 2025*
 
 A deep dive into why physicians will not supervise AI long-term, the economic forces driving automation, and what the future doctor must become.
@@ -32,4 +32,4 @@ A deep dive into why physicians will not supervise AI long-term, the economic fo
 
 ---
 
-[🏠 Back to Home](/)
+[🏠 Back to Home]({{ site.baseurl }}/)
